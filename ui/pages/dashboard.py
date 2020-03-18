@@ -5,7 +5,6 @@ class DashBoard:
 
     def open_personal_settings(self):
         driver = self.app.driver
-
         root = driver.find_element_by_tag_name("bzm-header")
         shadow_root = self.app.expand_shadow_element(root)
 
