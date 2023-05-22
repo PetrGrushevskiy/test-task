@@ -1,4 +1,4 @@
 names==0.3.0
 pytest==5.4.1
-requests==2.23.0
+requests==2.31.0
 selenium==3.141.0
